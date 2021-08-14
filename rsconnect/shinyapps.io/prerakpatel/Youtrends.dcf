@@ -1,0 +1,14 @@
+name: Youtrends
+title: Youtrends
+username:
+account: prerakpatel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4491309
+bundleId: 4921980
+url: https://prerakpatel.shinyapps.io/Youtrends/
+when: 1628914267.42054
+lastSyncTime: 1628914267.42056
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: CA_category_id.json|CAvideos_ml.csv|cc2.png|deploy.R|GB_category_id.json|GBvideos_ml.csv|shiny_1.R|shiny_dashb_trial.R|USvideos_ml.csv|Youtrends_icon_large.jpg|youtrends_icon_large.png
